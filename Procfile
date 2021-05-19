@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.actives=heroku build/libs/dio-cities-api-0.0.1-SNAPSHOT.jar
